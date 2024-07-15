@@ -7,9 +7,9 @@ Implementação do projeto físico da disciplina Banco de Dados (IF559)
 - [x] Criação do banco e das tabelas
 - [x] Adicionar os dados sintéticos no banco
 - [ ] Operações com notação de algebra relacional obrigatória
-  - [ ] selecionar todos os dados de uma tabela
-  - [ ] selecionar um subconjunto de atributos de uma tabela
-  - [ ] selecionar dados de uma tabela mediante alguma condição
+  - [x] selecionar todos os dados de uma tabela
+  - [x] selecionar um subconjunto de atributos de uma tabela
+  - [x] selecionar dados de uma tabela mediante alguma condição
   - [ ] realizar seleção de dados sem apresentar duplicadas
   - [ ] realizar consulta de seleção-projeção-junção
   - [ ] atribuir “apelidos”
