@@ -15,31 +15,31 @@ O cliente, após a escolha do(s) livro(s), se dirige ao caixa e antes de efetiva
 
 - [x] Criação do banco de dados
 - [x] Carregamento do banco de dados
-- [ ] Operações com notação de algebra relacional obrigatória
+- [x] Operações com notação de algebra relacional obrigatória
   - [x] selecionar todos os dados de uma tabela
   - [x] selecionar um subconjunto de atributos de uma tabela
   - [x] selecionar dados de uma tabela mediante alguma condição
-  - [ ] realizar seleção de dados sem apresentar duplicadas
-  - [ ] realizar consulta de seleção-projeção-junção
-  - [ ] atribuir “apelidos”
-  - [ ] aplicar união
-  - [ ] aplicar interseção
-  - [ ] aplicar diferença
-  - [ ] aplicar produto cartesiano
-  - [ ] realizar seleção sob condição que envolva outra seleção
-  - [ ] consultar valores de atributos que iniciem por algum termo
+  - [x] realizar seleção de dados sem apresentar duplicadas
+  - [x] realizar consulta de seleção-projeção-junção
+  - [x] atribuir “apelidos”
+  - [x] aplicar união
+  - [x] aplicar interseção
+  - [x] aplicar diferença
+  - [x] aplicar produto cartesiano
+  - [x] realizar seleção sob condição que envolva outra seleção
+  - [x] consultar valores de atributos que iniciem por algum termo
 
-- [ ] Operações independentes de notação de algebra relacional
-  - [ ] ordenar resultados de consultas de forma ascendente
-  - [ ] utilizar função de agregação
-  - [ ] realizar agrupamento de resultado de consulta
-  - [ ] criar regra apenas para consultas do banco criado
-  - [ ] criar regra para execução de comandos DML e DQL
-  - [ ] criar regra para execução de comandos DDL
-  - [ ] criar usuário que possua a regra padrão para consulta (criada anteriormente) 
-  - [ ] criar usuário que possua a regra padrão para comandos DML e DQL (criada anteriormente)
-  - [ ] criar usuário que possua a regra padrão para comandos DDL (criada anteriormente)
-  - [ ] criar uma transação única
-  - [ ] criar uma view a partir de mais de uma tabela
-  - [ ] criar uma regra para consulta apenas na visualização criada
-  - [ ] criar usuário que possua a regra padrão para consulta da view (criadas anteriormente)
+- [x] Operações independentes de notação de algebra relacional
+  - [x] ordenar resultados de consultas de forma ascendente
+  - [x] utilizar função de agregação
+  - [x] realizar agrupamento de resultado de consulta
+  - [x] criar regra apenas para consultas do banco criado
+  - [x] criar regra para execução de comandos DML e DQL
+  - [x] criar regra para execução de comandos DDL
+  - [x] criar usuário que possua a regra padrão para consulta (criada anteriormente) 
+  - [x] criar usuário que possua a regra padrão para comandos DML e DQL (criada anteriormente)
+  - [x] criar usuário que possua a regra padrão para comandos DDL (criada anteriormente)
+  - [x] criar uma transação única
+  - [x] criar uma view a partir de mais de uma tabela
+  - [x] criar uma regra para consulta apenas na visualização criada
+  - [x] criar usuário que possua a regra padrão para consulta da view (criadas anteriormente)
