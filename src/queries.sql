@@ -1,10 +1,10 @@
 
 -- Selecionar todos os dados de uma tabela
--- π * (Livro)
+-- σ_TRUE(Livro)
 SELECT * FROM Livro;
 
 -- Selecionar um subconjunto de atributos de uma tabela
--- π titulo, autor (Livro)
+-- σ titulo, autor (Livro)
 SELECT titulo, autor FROM Livro;
 
 -- Selecionar dados de uma tabela mediante alguma condição
@@ -12,7 +12,7 @@ SELECT titulo, autor FROM Livro;
 SELECT * FROM Livro WHERE ano_publicacao > 2020;
 
 -- Realizar seleção de dados sem apresentar duplicadas
--- π DISTINCT autor (Livro)
+-- σ DISTINCT autor (Livro)
 SELECT DISTINCT autor FROM Livro;
 
 -- Realizar consulta de seleção-projeção-junção
