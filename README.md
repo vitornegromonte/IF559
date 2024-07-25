@@ -6,10 +6,12 @@ A entrega é realizada em duas fases. Na primeira, consiste apenas um relatório
 
 ### Storytelling/Minimundo:
 A livraria “Machado & Co” é uma loja física que vende uma vasta gama de livros de diferentes gêneros e autores, sobretudo, autores nacionais. Além disso, a livraria também dá aos clientes a possibilidade de vender seus próprios livros(usados, mas em boas condições), de forma que eles possam ser também um fornecedor . Para gerenciar suas operações, a livraria quer obter um sistema de gestão interna que abrange diversas áreas do fluxo da companhia, como o gerenciamento de estoque, pedidos, fornecedores e clientes.
+
 Os livros são fornecidos pelas editoras e clientes da loja. São reconhecidos pelo ISBN(Padrão Internacional de Número do Livro), título, autor, ano de publicação, preço e código do fornecedor.
+
 Os funcionários são identificados por um código, nome, cpf, endereço, telefone e email. Podem atuar como: Administração, RH e Gerência. Mas todos são aptos para atender os clientes.
-O cliente, após a escolha do(s) livro(s), se dirige ao caixa e antes de efetivar a compra, lhe é perguntado se deseja realizar um cadastro na loja. Caso sim, alguns dados são necessários para cadastrar na base, como: nome completo, CPF, email, telefone e endereço. Caso não, a compra segue normalmente.
- Na compra é gerado um número do pedido e o(s) título(s) do(s) livro(s) e seu(s) respectivo(s) valor(es), como também a data da compra e o preço total. Assim, é escolhida a forma de pagamento sendo cartão, pix ou espécie.
+
+O cliente, após a escolha do(s) livro(s), se dirige ao caixa e antes de efetivar a compra, lhe é perguntado se deseja realizar um cadastro na loja. Caso sim, alguns dados são necessários para cadastrar na base, como: nome completo, CPF, email, telefone e endereço. Caso não, a compra segue normalmente. Na compra é gerado um número do pedido e o(s) título(s) do(s) livro(s) e seu(s) respectivo(s) valor(es), como também a data da compra e o preço total. Assim, é escolhida a forma de pagamento sendo cartão, pix ou espécie.
 
 ## Requisitos do projeto físico
 
