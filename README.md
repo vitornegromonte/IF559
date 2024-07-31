@@ -5,9 +5,10 @@
 ### 1. [🌱 Sobre](#-sobre)
 ### 2. [🗺️ Mapa do diretório](#-mapa-do-diretório)
 ### 3. [📖 Minimundo](#-minimundo)
-### 4. [✅ Requisitos do projeto físico](#-requisitos-do-projeto)
-### 5. [💻 Stack utilizada](#-stack)
-### 6. [✏️ Equipe](#-equipe)
+### 4. [🖼️ Diagramas](#️-diagramas)
+### 5. [✅ Requisitos do projeto físico](#-requisitos-do-projeto)
+### 6. [💻 Stack utilizada](#-stack)
+### 7. [✏️ Equipe](#-equipe)
 
 ## 🌱 Sobre
 A entrega é realizada em duas fases. Na primeira, consiste apenas um relatório descritivo sobre a aplicação com seu minimundo (descrição do cenário selecionado) e os diagramas conceituais e lógicos. Na segunda fase, pede-se a entrega do projeto lógico (criação dos scripts para criação e carregamento do banco de dados criado, além de uma lista de consultas obrigatórias descritas abaixo).
@@ -18,6 +19,7 @@ A entrega é realizada em duas fases. Na primeira, consiste apenas um relatório
 |--src
 │   ├── queries.sql              # consultas SQL
 │   |-- setup.sql                # criação e carregamento do banco de dados
+|-- imgs                         # diretório das imagens dos diagramas
 |-- LICENSE
 └── README.md
 ```
@@ -30,6 +32,18 @@ Os livros são fornecidos pelas editoras e clientes da loja. São reconhecidos p
 Os funcionários são identificados por um código, nome, cpf, endereço, telefone e email. Podem atuar como: Administração, RH e Gerência. Mas todos são aptos para atender os clientes.
 
 O cliente, após a escolha do(s) livro(s), se dirige ao caixa e antes de efetivar a compra, lhe é perguntado se deseja realizar um cadastro na loja. Caso sim, alguns dados são necessários para cadastrar na base, como: nome completo, CPF, email, telefone e endereço. Caso não, a compra segue normalmente. Na compra é gerado um número do pedido e o(s) título(s) do(s) livro(s) e seu(s) respectivo(s) valor(es), como também a data da compra e o preço total. Assim, é escolhida a forma de pagamento sendo cartão, pix ou espécie.
+
+## 🖼️ Diagramas
+
+
+#### Modelo Conceitual
+
+![modelo conceitual](imgs/modelo-conceitual.jpg)
+
+
+#### Modelo lógico
+
+![modelo lógico](imgs/modelo-logico.jpg)
 
 
 ## ✅ Requisitos do projeto
@@ -72,4 +86,4 @@ Para a criação do projeto físico, utilizamos o SGBD PostgreSQL 16.
 
 - Vitor Negromonte
 - Clarisse Magnata
-- Mylena Lima
+- Mylena Ferreira
